@@ -18,5 +18,6 @@ public class Car1 {
         System.out.println(car1.color);
         System.out.println("my change1");
         System.out.println("my hw2");
+        System.out.println("my hw3");
     }
 }
